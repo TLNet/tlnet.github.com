@@ -1,7 +1,8 @@
 ---
 layout    : post
 permalink : /node/3650
-title     : Thờ phượng Chúa, trên Paltalk, sáng 08/08/2010
+title     : Thờ phượng Chúa, trên Paltalk
+tagline   : sáng ngày 08/08/2010
 comments  : true
 author    : thehong
 file      : ./_posts/blog/2010-08-08-tho-phuong-chua-tren-paltalk-sang-08-08-2010.md
