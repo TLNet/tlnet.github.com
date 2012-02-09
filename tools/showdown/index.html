@@ -68,6 +68,10 @@ category : Tools
   <body> 
     <div class="info">
       This is an adaption of the <a href="http://github.github.com/github-flavored-markdown/preview.html">github markdown previewer</a> and uses github readme styling
+      
+        <a style="display: block; float: right;" href="http://github.github.com/github-flavored-markdown/sample_content.html">
+          Example Markdown content
+        </a>
     </div>
 
     <div id="content" class="site">
@@ -75,20 +79,14 @@ category : Tools
         <em>Enter Markdown</em>
         <p><textarea id="user_input"></textarea></p> 
       </div>
+      
       <div id="preview-container">
         <em>Live preview</em>
         <div id="readme" class="announce md" data-path="/"><div class="wikistyle"></div></div>
       </div>
     </div>
-    <script type="text/javascript"> 
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-633948-2']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script> 
+    
+    {% include JB/analytics %}
+
   </body>
 </html>
