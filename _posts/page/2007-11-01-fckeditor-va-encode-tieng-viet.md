@@ -9,7 +9,7 @@ tags      : ['Drupal']
 category  : Drupal
 ---
 {% include JB/setup %}
-Lâu quá không tham gia [[http://groups.drupal.org/vietnamese|Group]], có mánh nhỏ mà hay. 
+Lâu quá không tham gia [Group](http://groups.drupal.org/vietnam), có mánh nhỏ mà hay.
 
 Tác giả * hỏi:
 > Hi,
@@ -28,4 +28,4 @@ Tác giả tự trả lời:
 > 
 > Hêh, FCK vẫn ngon hơn TinyMCE :D
 
-* Tác giả: [[http://dohoangnguyen.com/|http://dohoangnguyen.com/]]
+* Tác giả: [dohoangnguyen.com](http://dohoangnguyen.com/)

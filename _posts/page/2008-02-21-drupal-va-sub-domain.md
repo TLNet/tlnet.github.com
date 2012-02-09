@@ -22,7 +22,7 @@ về một mối -- các request dạng <code>http://foo.domainname.com/node/1</
 site của bạn với URL có dạng <code>http://domainname.com/index.php?q=node/1</code>
 
 ##Cookie##
-Việc tạo tên SESSION trong Drupal phụ thuộc vào domain (và sub domain) được request, cho nên, cũng là một người truy cập, nhưng khi bạn truy cập <code>http://domainname.com</code> và khi bạn truy cập <code>http://foo.domainame.com</code>, thì đối với Drupal, bạn là hai người khác nhau. Tham khảo hàm [[http://toila.net/api/function/conf_init|config_init]]. Để giải quyết trở ngại này, chúng ta phải đồng bộ tên SESSION khi sử dụng các domain/sub-domain. Mở tập tin <code>sites/settings/settings.php</code>, thêm (bỏ comment) dòng:
+Việc tạo tên SESSION trong Drupal phụ thuộc vào domain (và sub domain) được request, cho nên, cũng là một người truy cập, nhưng khi bạn truy cập <code>http://domainname.com</code> và khi bạn truy cập <code>http://foo.domainame.com</code>, thì đối với Drupal, bạn là hai người khác nhau. Tham khảo hàm config_init(). Để giải quyết trở ngại này, chúng ta phải đồng bộ tên SESSION khi sử dụng các domain/sub-domain. Mở tập tin <code>sites/settings/settings.php</code>, thêm (bỏ comment) dòng:
 
 {% highlight php linenos startinline %}
   $cookie_domain = domainname.com';
@@ -32,7 +32,9 @@ Vấn đề còn lại giờ, chúng ta hải chỉnh lại tập tin .htaccess 
 
 
 ##Rewrite##
-Apply [[http://toila.net/sites/toila.net/files/code/patch/subdomain-drupal5-7.patch|patch này]] (áp dụng cho drupal 5.7) để điều chỉnh lại tập tin <code>.htaccess</code>. Khi đó, <code>.htaccess</code> của drupal sẽ có dạng sau:
+Apply [patch này](http://toila.net/sites/toila.net/files/code/patch/subdomain-drupal5-7.patch) (áp
+dụng cho drupal 5.7) để điều chỉnh lại tập tin <code>.htaccess</code>. Khi đó, <code>.htaccess</code> 
+của drupal sẽ có dạng sau:
 
 {% highlight ini linenos startinline %}
 #

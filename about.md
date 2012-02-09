@@ -22,9 +22,8 @@ trong những khi tôi làm việc với Drupal :)
 Tôi có tham gia các mạng xã hội, nơi các bạn có thể làm quen với tôi:
  - [Twitter](https://twitter.com/thehongtt "")
  - [Facebook](https://www.facebook.com/thehongtt "")
- - [Github](https://github.com/andytruong)
- - [Drupal](http://drupal.org/user/84886 "")
  - [Linkhay](http://linkhay.com/u/andyt "")
  - [Scoopit](http://www.scoop.it/u/andy-truong "")
+ - Coding: [Github](https://github.com/andytruong), [Bitbucket](https://bitbucket.org/andytruong ""), [Drupal](http://drupal.org/user/84886 "")
 
 Để liên hệ với tôi, bạn có thể gửi email đến: _thehong [at] toila dot net_.
