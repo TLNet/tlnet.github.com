@@ -1,0 +1,94 @@
+---
+title    : GitHub Flavored Markdown - Live Preview
+category : Tools
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+  <head> 
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /> 
+    <title>GitHub Flavored Markdown - Live Preview</title> 
+    <link href="http://github.com/stylesheets/bundle_common.css" media="screen" rel="stylesheet" type="text/css" /> 
+    <link href="http://github.com/stylesheets/bundle_github.css" media="screen" rel="stylesheet" type="text/css" /> 
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> 
+    <script type="text/javascript" src="http://github.github.com/github-flavored-markdown/scripts/showdown.js"></script> 
+    <script type="text/javascript">
+      $(function() {
+        var converter = new Showdown.converter();
+        $("#user_input").keyup(function(){
+          var txt = $("#user_input").val();
+          var html = converter.makeHtml(txt);
+          $(".wikistyle").html(html)
+          $("#entry-container, #user_input").css({
+            height: $(".wikistyle").outerHeight()+40
+          })
+
+        });
+      });
+    </script>
+    <style>
+      #entry-container {
+        float:left;
+        width:39%;
+        height:100%;
+      }
+      #entry-container textarea {
+        width: 100%;
+        height: 100%;
+      }
+      
+      body #content.site {
+        width:auto;
+        margin:10px;
+      }
+      
+      body #preview-container  {
+        float:right;
+        width: 60%;
+      }
+
+      body { 
+        height:100%;
+      }
+      
+      .info {
+        background: black;
+        color:white;
+        font-size: 0.8em;
+        padding: 0.3em;
+        margin-bottom:20px;
+      }
+      
+      .info a {
+        color: yellow;
+      }
+    </style>
+  </head> 
+  <body> 
+    <div class="info">
+      This is an adaption of the <a href="http://github.github.com/github-flavored-markdown/preview.html">github markdown previewer</a> and uses github readme styling
+    </div>
+
+    <div id="content" class="site">
+      <div id="entry-container">
+        <em>Enter Markdown</em>
+        <p><textarea id="user_input"></textarea></p> 
+      </div>
+      <div id="preview-container">
+        <em>Live preview</em>
+        <div id="readme" class="announce md" data-path="/"><div class="wikistyle"></div></div>
+      </div>
+    </div>
+    <script type="text/javascript"> 
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-633948-2']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script> 
+  </body>
+</html>
