@@ -9,22 +9,18 @@ tags      : ['Drupal', 'Drupal 6', 'hook']
 category  : Drupal
 ---
 {% include JB/setup %}
-Hệ thống menu ở Drupal 6 đã được cải tiến rất nhiều, đẹp hơn, gọn hơn và uyển chuyển hơn. Đáng kể nhất ở đây là hook_menu_alter đã được thêm vào, giúp người thảo chương thực hiện một số thao tác tưởng chừng khó mà nay rất dễ.
+Hệ thống menu ở Drupal 6 đã được cải tiến rất nhiều, đẹp hơn, gọn hơn và uyển chuyển hơn. Đáng kể 
+nhất ở đây là hook_menu_alter đã được thêm vào, giúp người thảo chương thực hiện một số thao tác 
+tưởng chừng khó mà nay rất dễ.
 
 Các bước để Drupal xây dựng cấu trúc menu là:
 1. Gọi các hook_menu của các module để lấy về các menu items.
 2. Gọi hook_menu_alter của các module, cho phép chúng thay đổi tuỳ ý cấu trúc menu vừa được thu lượm.
 3. Lưu cấu trúc menu items đã được alter vào CSDL.
 
-Một trang trong Drupal được định nghĩa đầy đủ bởi một menu item, bao gồm, path, quyền truy cập, tiêu đề trang, callback, ... như vậy, thay đổi cấu trúc một menu item, có dẫn đến việc thay đổi hoàn toàn một trang đang có.
-Hệ thống menu ở Drupal 6 đã được cải tiến rất nhiều, đẹp hơn, gọn hơn và uyển chuyển hơn. Đáng kể nhất ở đây là hook_menu_alter đã được thêm vào, giúp người thảo chương thực hiện một số thao tác tưởng chừng khó mà nay rất dễ.
-
-Các bước để Drupal xây dựng cấu trúc menu là:
-1. Gọi các hook_menu của các module để lấy về các menu items.
-2*. Gọi hook_menu_alter của các module, cho phép chúng thay đổi tuỳ ý cấu trúc menu vừa được thu lượm.
-3. Lưu cấu trúc menu items đã được alter vào CSDL.
-
-Một trang trong Drupal được định nghĩa đầy đủ bởi một menu item, bao gồm, path, quyền truy cập, tiêu đề trang, callback, ... như vậy, thay đổi cấu trúc một menu item, có dẫn đến việc thay đổi hoàn toàn một trang đang có.
+Một trang trong Drupal được định nghĩa đầy đủ bởi một menu item, bao gồm, path, quyền truy cập, 
+tiêu đề trang, callback, ... như vậy, thay đổi cấu trúc một menu item, có dẫn đến việc thay đổi hoàn 
+toàn một trang đang có.
 
 Thí dụ, workflow tab của một node được định nghĩa bởi một menu item có dạng sau:
 

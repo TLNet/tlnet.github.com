@@ -10,7 +10,7 @@ category  : Drupal
 ---
 {% include JB/setup %}
 
-[Drupal Garden](http://www.drupalgardens.com "") là nền dịch vụ xây dựng trên nền tảng Drupal 7, 
+[Drupal Garden](http://www.drupalgardens.com) là nền dịch vụ xây dựng trên nền tảng Drupal 7, 
 cung cấp cho người dùng khả năng xây dựng website hoàn chỉnh, nhanh chóng. Với website tạo ra, bạn 
 có thể xuất mã nguồn và nội dung ra, và triển khai trên hệ thống của bạn. Nếu chưa có hosting, bạn 
 cũng có thể sử dụng dịch vụ hosting có phí của Drupal Garden.
