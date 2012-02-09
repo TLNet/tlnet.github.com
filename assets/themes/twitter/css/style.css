@@ -69,3 +69,7 @@ body {
 	color:#FFF;
 }
 	
+	
+.content .row .span10 img {
+    max-width: 580px;
+}
