@@ -22,10 +22,10 @@ mình, nhằm giúp người làm web Việt Nam chúng ta định hướng và 
 
 Theo kế hoạch, chúng tôi sẽ thực hiện những khoá học sau:
 
-- [Drupal Site Builder - Xây dựng website trên nền tảng Drupal]({% post_url 2012-02-10-khoa-hoc-tim-hieu-drupal-001 %})
-- [Drupal Theming - Xây dựng giao diện cho Drupal]({% post_url 2012-02-10-khoa-hoc-tim-hieu-drupal-002 %})
-- [Drupal Developer - Basic]({% post_url 2012-02-10-khoa-hoc-tim-hieu-drupal-003 %})
-- [Drupal Developer - Advanced]({% post_url 2012-02-10-khoa-hoc-tim-hieu-drupal-004 %})
+- [Drupal Site Builder - Xây dựng website trên nền tảng Drupal](/news/2012/02/khoa-hoc-tim-hieu-drupal/site-building/)
+- [Drupal Theming - Xây dựng giao diện cho Drupal](/news/2012/02/khoa-hoc-tim-hieu-drupal/theming/)
+- [Drupal Developer - Basic](/news/2012/02/khoa-hoc-tim-hieu-drupal/developer-basic/)
+- [Drupal Developer - Advanced](/news/2012/02/khoa-hoc-tim-hieu-drupal/developer-advanced/)
 
 Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết.
 
@@ -44,9 +44,10 @@ online: @TODO.
 - Đăng ký 3 người giảm 10%
 - Đăng ký 4 người trở lên 15%
 
-**Chú ý 1:** Số miễn giảm không vượt quá 40% học phí.
-**Chú ý 2:** Học viên giỏi sẽ có cơ hội tham gia vào công ty Viet COOP, cùng thực hiện những project
-lớn.
+> **Chú ý 1:** Số miễn giảm không vượt quá 40% học phí.
+> 
+> **Chú ý 2:** Học viên giỏi sẽ có cơ hội tham gia vào công ty Viet COOP, cùng thực hiện những project 
+> lớn.
 
 ---------
 **Thay mặt ban tổ chức khoá học**
