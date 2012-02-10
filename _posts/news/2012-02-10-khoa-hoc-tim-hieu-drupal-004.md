@@ -1,6 +1,6 @@
 ---
 layout    : post
-permalink : news/2012/02/khoa-hoc-tim-hieu-drupal/developer-advanced
+permalink : /news/2012/02/khoa-hoc-tim-hieu-drupal/developer-advanced
 title     : "Advanced Drupal Developer"
 tagline   : Khoá học Drupal
 category  : News

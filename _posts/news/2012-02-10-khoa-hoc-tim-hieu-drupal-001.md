@@ -1,6 +1,6 @@
 ---
 layout    : post
-permalink : news/2012/02/khoa-hoc-tim-hieu-drupal/site-building
+permalink : /news/2012/02/khoa-hoc-tim-hieu-drupal/site-building
 title     : "Site Building with Drupal"
 tagline   : Khung chương chi tiết
 category  : News

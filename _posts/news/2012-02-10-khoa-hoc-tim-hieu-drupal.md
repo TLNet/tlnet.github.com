@@ -1,6 +1,6 @@
 ---
 layout    : post
-permalink : news/2012/02/khoa-hoc-tim-hieu-drupal
+permalink : /news/2012/02/khoa-hoc-tim-hieu-drupal
 title     : "Tìm hiểu Drupal"
 tagline   : Giới thiệu Khóa Học
 category  : News
@@ -50,8 +50,6 @@ online: @TODO.
 > lớn.
 
 ---------
-**Thay mặt ban tổ chức khoá học**
+**Trưởng ban tổ chức khóa học**
 
 **_Trương Thế Hồng_**
-
-_Giám đốc cty Viet COOP_
