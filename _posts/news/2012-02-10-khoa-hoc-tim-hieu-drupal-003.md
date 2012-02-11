@@ -9,4 +9,25 @@ hide      : true
 ---
 {% include JB/setup %}
 
-### Under Construction
+* Cở bản Git
+* Chuẩn lập trình
+* SimpleTest
+* Module development
+* Hệ thống hook
+* Tạo pages
+  * Cấu trúc trang
+  * hook_menu().
+  * hook_permission().
+* Công cụ:
+  * Devel
+  * Module Builder
+  * Form Builder
+* Libraries, CSS, JS
+* Form API
+  * Sử dụng
+  * Multisteps
+  * Mở rộng
+* Database API
+* Cập nhật module -- hook_update_N().
+* Tạo mới Entity
+* Tạo mới Field

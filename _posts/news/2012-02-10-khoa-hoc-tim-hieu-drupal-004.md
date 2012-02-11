@@ -9,4 +9,21 @@ hide      : true
 ---
 {% include JB/setup %}
 
-### Under Construction
+* Quản lý dự án
+* Patch
+* Documentation
+* Token
+* Queue
+* Cache
+* Công cụ:
+  * Debug: devel.module, xdebug, xhprof
+  * Coder
+* LABjs
+* Chia sẻ module ở drupal.org
+* Sử dụng, mở rộng CTools
+* Mở rộng Views
+* Mở rộng Drush
+* Mở rộng Rules
+* Scaling
+  * Master/Slave
+  * MongoDB
