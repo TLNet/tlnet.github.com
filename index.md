@@ -15,3 +15,5 @@ tagline : Andy T's personal homepage
 
 > - _I am converting old Drupal site to Jekyll -- semi static CMS, some posts maybe missing._
 > - **Any question about Drupal, please ask at http://groups.drupal.org/vietnam**
+
+<div style="background: url(/sites/toila.net/files/pictures/ninja.gif) -2px -11px no-repeat; height: 122px; width: 286px; position: absolute; top: 115px; left: 851px;"></div>

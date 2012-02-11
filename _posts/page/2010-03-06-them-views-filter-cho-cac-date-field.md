@@ -77,8 +77,6 @@ Chúng ta phải định nghĩa class ở một file khác, vì class thừa k�
 Nội dung của file date_custom_views_field_handlers.inc có nội dung:
 
 {% highlight php linenos startinline %}
-// $Id$
-
 class date_custom_handler_filter_date extends views_handler_filter_date {
   function op_simple($field) {
     $stamp = strtotime($this->value['value']);
