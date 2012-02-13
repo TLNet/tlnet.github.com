@@ -44,15 +44,16 @@ hide      : true
   - **8.2.** Tìm hiểu nguyên nhân.
   - **8.3.** Tăng tốc
 
+__Tutor: Trương Thế Hồng__
+
 ### Học phí: 2.35 triệu đồng/khoá học
 
 Học phí cho 9 ngày học, mỗi ngày 3 giờ.
 
 ### Miễn giảm học phí:
 
-- Đăng ký 2 người giảm 5%
-- Đăng ký 3 người giảm 10%
-- Đăng ký 4 người trở lên 15%
+- Đăng ký 2 người giảm 10%
+- Đăng ký 3 người giảm 15%
 
 ### Địa điểm lớp học
 
