@@ -46,11 +46,12 @@ hide      : true
 
 ### Địa điểm lớp học
 
-    168/2 Đặng Văn Ngữ, phường 14, Phú Nhuận
-    Điện thoại: 0917 212 508
+> 168/2 Đặng Văn Ngữ, phường 14, Phú Nhuận
+> Điện thoại: 0917 212 508
+> Email: [contact@kh2soft.com](mailto:contact@kh2soft.com)
 
 ### Thời gian:
 
-    - Lớp học từ 18h - 21h mỗi ngày từ thứ 2 đến thứ 6.
-    - Khoá I bắt đầu từ ngày 1/3/2012 đến ngày 13/3/2012
-    - Khoá II bắt đầu từ ngày 15/3/2012 đến ngày 27/3/2012
+- Lớp học từ 18h - 21h mỗi ngày từ thứ 2 đến thứ 6.
+- Khoá I bắt đầu từ ngày 1/3/2012 đến ngày 13/3/2012
+- Khoá II bắt đầu từ ngày 15/3/2012 đến ngày 27/3/2012

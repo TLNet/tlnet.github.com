@@ -39,7 +39,8 @@ Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết l
 > lớn.
 > 
 > **Chú ý:** Các bạn ở xa, không có điều kiện để tham dự lớp học, chúng ta sẽ cố gắng thực hiện khoá
->    học online trong thời gian tới. Xin email về contact@kh2soft.com để nhận thông báo mới nhất.
+>    học online trong thời gian tới. Xin email về [contact@kh2soft.com](mailto:contact@kh2soft.com)
+>    để nhận thông báo mới nhất.
 
 ---------
 **Trưởng ban tổ chức khóa học**
