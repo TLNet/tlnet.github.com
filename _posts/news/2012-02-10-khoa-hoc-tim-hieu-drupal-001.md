@@ -44,6 +44,10 @@ hide      : true
   - **8.2.** Tìm hiểu nguyên nhân.
   - **8.3.** Tăng tốc
 
+### Học phí: 2.35 triệu đồng/khoá học
+
+Học phí cho 9 ngày học, mỗi ngày 3 giờ.
+
 ### Địa điểm lớp học
 
 > 168/2 Đặng Văn Ngữ, phường 14, Phú Nhuận
