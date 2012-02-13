@@ -51,10 +51,11 @@ Học phí cho 9 ngày học, mỗi ngày 3 giờ.
 ### Địa điểm lớp học
 
 > 168/2 Đặng Văn Ngữ, phường 14, Phú Nhuận
->
-> Điện thoại: 0917 212 508
->
-> Email: [contact@kh2soft.com](mailto:contact@kh2soft.com)
+> 
+> Liên hệ Mr Khánh, cty KH2Soft
+> - Phone: 08 - 6684 3765
+> - Mobile: 0917 212 508
+> - Email: [contact@kh2soft.com](mailto:contact@kh2soft.com)
 
 ### Thời gian:
 
