@@ -32,12 +32,6 @@ Từ tháng 04/2012, chúng tôi sẽ tiếp tục mở thêm các lớp:
 
 _Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết lịch học, địa điểm học, học phí, …_
 
-### Miễn giảm học phí:
-
-- Đăng ký 2 người giảm 5%
-- Đăng ký 3 người giảm 10%
-- Đăng ký 4 người trở lên 15%
-
 > **Chú ý:** Học viên giỏi sẽ có cơ hội tham gia vào công ty Viet COOP, cùng thực hiện những project 
 > lớn.
 > 
