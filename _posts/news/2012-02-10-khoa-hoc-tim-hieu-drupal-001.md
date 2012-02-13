@@ -9,6 +9,8 @@ hide      : true
 ---
 {% include JB/setup %}
 
+### Chương trình học
+
 - **1.** Giới thiệu Drupal
   - **1.1.** Tổng quan
   - **1.2.** So sánh với Joomla, Wordpress, Typo3
@@ -41,3 +43,14 @@ hide      : true
   - **8.1.** Benchmark
   - **8.2.** Tìm hiểu nguyên nhân.
   - **8.3.** Tăng tốc
+
+### Địa điểm lớp học
+
+    168/2 Đặng Văn Ngữ, phường 14, Phú Nhuận
+    Điện thoại: 0917 212 508
+
+### Thời gian:
+
+    - Lớp học từ 18h - 21h mỗi ngày từ thứ 2 đến thứ 6.
+    - Khoá I bắt đầu từ ngày 1/3/2012 đến ngày 13/3/2012
+    - Khoá II bắt đầu từ ngày 15/3/2012 đến ngày 27/3/2012

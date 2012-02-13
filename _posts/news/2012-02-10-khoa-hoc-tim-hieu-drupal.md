@@ -27,27 +27,18 @@ Theo kế hoạch, chúng tôi sẽ thực hiện những khoá học sau:
 - [Drupal Developer - Basic](/news/2012/02/khoa-hoc-tim-hieu-drupal/developer-basic/)
 - [Drupal Developer - Advanced](/news/2012/02/khoa-hoc-tim-hieu-drupal/developer-advanced/)
 
-Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết.
-
-Về phương thức học tập, chúng tôi thực hiện 2 phương thức sau:
-
-1. Offline: Đối với học viên ở Sài Gòn
-
-2. Online: Đối với những học viên không tham gia được khoá học offline, các bạn có thể tham gia khoá
-online: @TODO.
+Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết lịch học, địa điểm học, học phí, …
 
 ### Miễn giảm học phí:
 
-- Sinh viên giỏi
-- Đăng ký trước 10 ngày giảm 20$
 - Đăng ký 2 người giảm 5%
 - Đăng ký 3 người giảm 10%
 - Đăng ký 4 người trở lên 15%
 
-> **Chú ý 1:** Số miễn giảm không vượt quá 40% học phí.
-> 
-> **Chú ý 2:** Học viên giỏi sẽ có cơ hội tham gia vào công ty Viet COOP, cùng thực hiện những project 
+> **Chú ý:** Học viên giỏi sẽ có cơ hội tham gia vào công ty Viet COOP, cùng thực hiện những project 
 > lớn.
+> **Chú ý:** Các bạn ở xa, không có điều kiện để tham dự lớp học, chúng ta sẽ cố gắng thực hiện khoá
+    học online trong thời gian tới. Xin email về contact@kh2soft.com để nhận thông báo mới nhất.
 
 ---------
 **Trưởng ban tổ chức khóa học**
