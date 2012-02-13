@@ -48,6 +48,12 @@ hide      : true
 
 Học phí cho 9 ngày học, mỗi ngày 3 giờ.
 
+### Miễn giảm học phí:
+
+- Đăng ký 2 người giảm 5%
+- Đăng ký 3 người giảm 10%
+- Đăng ký 4 người trở lên 15%
+
 ### Địa điểm lớp học
 
 > 168/2 Đặng Văn Ngữ, phường 14, Phú Nhuận
