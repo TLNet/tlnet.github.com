@@ -20,14 +20,17 @@ Chúng tôi là những người đã làm việc thực tế với Drupal qua n
 Châu Âu, … Là những người đi trước, chúng tôi muốn chia sẻ những kiến thức, kinh nghiệm tích luỹ của
 mình, nhằm giúp người làm web Việt Nam chúng ta định hướng và rút ngắn được con được cần đi.
 
-Theo kế hoạch, chúng tôi sẽ thực hiện những khoá học sau:
+Theo kế hoạch, từ đầu tháng 03/2012 chúng tôi sẽ thực hiện khoá học sau:
 
 - [Drupal Site Builder - Xây dựng website trên nền tảng Drupal](/news/2012/02/khoa-hoc-tim-hieu-drupal/site-building/)
+
+Từ tháng 04/2012, chúng tôi sẽ tiếp tục mở thêm các lớp:
+
 - [Drupal Theming - Xây dựng giao diện cho Drupal](/news/2012/02/khoa-hoc-tim-hieu-drupal/theming/)
 - [Drupal Developer - Basic](/news/2012/02/khoa-hoc-tim-hieu-drupal/developer-basic/)
 - [Drupal Developer - Advanced](/news/2012/02/khoa-hoc-tim-hieu-drupal/developer-advanced/)
 
-Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết lịch học, địa điểm học, học phí, …
+_Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết lịch học, địa điểm học, học phí, …_
 
 ### Miễn giảm học phí:
 
