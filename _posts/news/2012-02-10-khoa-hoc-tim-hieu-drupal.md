@@ -38,7 +38,7 @@ Các bạn có thể nhấp chuột vào các khoá học để xem chi tiết l
 > **Chú ý:** Học viên giỏi sẽ có cơ hội tham gia vào công ty Viet COOP, cùng thực hiện những project 
 > lớn.
 > **Chú ý:** Các bạn ở xa, không có điều kiện để tham dự lớp học, chúng ta sẽ cố gắng thực hiện khoá
-    học online trong thời gian tới. Xin email về contact@kh2soft.com để nhận thông báo mới nhất.
+>    học online trong thời gian tới. Xin email về contact@kh2soft.com để nhận thông báo mới nhất.
 
 ---------
 **Trưởng ban tổ chức khóa học**
