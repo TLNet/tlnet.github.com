@@ -2,10 +2,13 @@
 layout    : post
 permalink : /news/2012/02/khoa-hoc-tim-hieu-drupal/site-building
 title     : "Site Building with Drupal"
-tagline   : Khung chương chi tiết
+tagline   : Chương trình chi tiết
 category  : News
 tags      : ['Drupal', 'Course']
 hide      : true
+refs      :
+    - Drush http://drupalize.me/videos/what-drush
+    - Features http://drupalize.me/videos/introduction-drupal-features-module
 ---
 {% include JB/setup %}
 
@@ -32,17 +35,29 @@ hide      : true
   - **3.5.** Gỡ bỏ module
   - **3.6.** Module và hiệu năng làm việc của Drupal
 - **4.** Theme
-- **5.** Install Profile
-- **5.** Dùng Drupal clone VNExpress.net
-- **6.** Backup plan
-  - **6.1.** Backup & Migrate module
-  - **6.2.** Drush
-- **7.** Features
-- **8.** RDFa
-- **8.** Tối ưu hoá Drupal
-  - **8.1.** Benchmark
-  - **8.2.** Tìm hiểu nguyên nhân.
-  - **8.3.** Tăng tốc
+- **5.** Install Profile: Open Attrium, Open Publish, Open Publish, News Manager, …
+- **6.** Sử dụng modules
+  - **6.1.** Fields: Field, Image, Link, Date, Embeded Media, ...
+  - **6.2.** Views
+  - **6.3.** Panels
+  - **6.4.** Organic Groups
+  - **6.5.** Context
+  - **6.6.** Advertisement
+  - **6.7.** Forum, Advanced Forum
+  - **6.7.** Workflow
+  - **6.8.** Rules
+  - **6.9.** Features
+- **7.** Dùng Drupal clone VNExpress.net
+- **8.** Backup plan
+  - **8.1.** Backup & Migrate module
+  - **8.2.** Drush
+- **9.** SEO
+  - **9.1.** Keywords
+  - **9.2.** RDFa
+- **10.** Tối ưu hoá Drupal
+  - **10.1.** Benchmark
+  - **10.2.** Tìm hiểu nguyên nhân.
+  - **10.3.** Tăng tốc
 
 __Tutor: Trương Thế Hồng__
 

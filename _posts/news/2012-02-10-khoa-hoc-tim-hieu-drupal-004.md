@@ -6,6 +6,9 @@ tagline   : Khoá học Drupal
 category  : News
 tags      : ['Drupal', 'Course']
 hide      : true
+topic     :
+    - Migrate
+    - Rules
 ---
 {% include JB/setup %}
 
