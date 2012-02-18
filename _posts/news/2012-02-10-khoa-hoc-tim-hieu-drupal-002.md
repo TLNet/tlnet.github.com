@@ -14,5 +14,6 @@ refs      :
 ### Under Construction
 
 - Cơ bản PHP
-- Base Themes: AdaptiveTheme, Fusion, Zen, Omega.
-- 
+- Cơ bản Javasript, JQuery
+- Base Themes: AdaptiveTheme, Fusion, Zen, Omega
+- ...

@@ -9,6 +9,7 @@ hide      : true
 ref       :
     - http://drupalcity.de/program/videos
     - http://drupalize.me/videos?category[]=6
+    - Cheatsheet http://devcheatsheet.com/tag/drupal/
 ---
 {% include JB/setup %}
 
@@ -30,7 +31,9 @@ ref       :
   * Sử dụng
   * Multisteps
   * Mở rộng
+* Using settings
 * Database API
+* Security notes
 * Cập nhật module -- hook_update_N().
 * Entity, Entity API module
 * Tạo mới Field
