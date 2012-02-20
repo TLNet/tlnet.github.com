@@ -18,7 +18,7 @@ ref       :
 * SimpleTest
 * Module development
 * Hệ thống hook
-* Inline documentation
+* Documentation, Doxygen, API module.
 * Tạo pages
   * Cấu trúc trang
   * hook_menu()
