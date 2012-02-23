@@ -12,6 +12,14 @@ refs      :
 ---
 {% include JB/setup %}
 
+### Mục tiêu đạt được
+
+- Hiểu được hệ thống theming của Drupal
+- Tuỳ biến được Drupal Theme có sẵn
+- Có thể chuyển PSD sang giao diện Drupal
+
+### Chương trình học
+
 - Môi trường làm việc
 - Basic HTML
 - Cơ bản PHP
@@ -20,9 +28,9 @@ refs      :
 - Javasript cho themer
 - Theme Engine
 - PHPTemplate:
-    - hook_theme().
-    - hook_preprocess_HOOK().
-    - Template động với template-suggestions.
+  - hook_theme().
+  - hook_preprocess_HOOK().
+  - Template động với template-suggestions.
 - Base Themes: AdaptiveTheme, Fusion, Zen, Omega
 - Subtheme
 - File .info.
@@ -34,8 +42,8 @@ refs      :
 - Views/Panels theming.
 - PSD 2 Drupal
 - Bonus:
-    - hướng dẫn sử dụng Zen Coding, Less
-    - Giới thiệu Twig
+  - hướng dẫn sử dụng Zen Coding, Less
+  - Giới thiệu Twig
 
 ### Đối tượng học viên:
 - Đã biết HTML
