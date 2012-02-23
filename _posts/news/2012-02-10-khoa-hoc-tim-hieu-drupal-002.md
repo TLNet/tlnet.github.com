@@ -50,3 +50,6 @@ refs      :
 - Đã biết CSS
 - Đã biết cơ bản Photoshop
 - Đã biết cơ bản Drupal (nên học khoá Drupal site building)
+
+### Thời gian học
+Hai ngày, mỗi ngày 8 giờ.
