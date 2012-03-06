@@ -10,6 +10,7 @@ ref       :
     - http://drupalcity.de/program/videos
     - http://drupalize.me/videos?category[]=6
     - Cheatsheet http://devcheatsheet.com/tag/drupal/
+    - Security http://drupalscout.com/knowledge-base
 ---
 {% include JB/setup %}
 

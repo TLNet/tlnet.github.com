@@ -9,6 +9,7 @@ hide      : true
 refs      :
     - PHP for Themers: http://drupalize.me/videos/php-themers
     - Drupal.org: http://drupal.org/documentation/theme
+    - Security http://drupalscout.com/knowledge-base
 ---
 {% include JB/setup %}
 
