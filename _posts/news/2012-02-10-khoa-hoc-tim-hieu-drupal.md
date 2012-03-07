@@ -8,6 +8,7 @@ tags      : ['Drupal', 'Course']
 hide      : true
 ---
 {% include JB/setup %}
+
 Drupal đang là trend quá nóng của thế giới làm web. Từ khi Drupal 7 ra đời, hàng loạt website lớn 
 hoặc đã bắt đầu xây dựng với Drupal, hoặc đã chuyển đổi hệ thống sang Drupal. Nhiều khách hàng đặt 
 niềm tin lớn vào Drupal, số lượng project Drupal tăng lên chóng mặt, nhiều công ty làm web đang cần 

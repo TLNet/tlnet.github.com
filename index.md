@@ -5,6 +5,14 @@ tagline : Andy T's personal homepage
 ---
 {% include JB/setup %}
 
+### Featured
+<ul class="posts featured">
+    {% assign pages_list = site.posts %}
+    {% assign group = 'featured' %}
+    {% include JB/pages_list %}
+</ul>
+
+### Recent posts
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.hide != true %}
