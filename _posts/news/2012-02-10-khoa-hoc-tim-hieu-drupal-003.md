@@ -11,6 +11,7 @@ ref       :
     - http://drupalize.me/videos?category[]=6
     - Cheatsheet http://devcheatsheet.com/tag/drupal/
     - Security http://drupalscout.com/knowledge-base
+    - Example modules http://drupal.org/project/examples
 ---
 {% include JB/setup %}
 
@@ -33,8 +34,9 @@ ref       :
   * Multisteps
   * Mở rộng
 * Using settings
-* Database API
+* Database/DBTNG
 * Security notes
+* Block, Action, Batch, Email, Vertical Tabs, JS/CSS.
 * Cập nhật module -- hook_update_N().
-* Entity, Entity API module
-* Tạo mới Field
+* Entity, Entity API module, Field
+* File
