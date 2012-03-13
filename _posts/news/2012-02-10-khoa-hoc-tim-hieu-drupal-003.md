@@ -12,6 +12,10 @@ ref       :
     - Cheatsheet http://devcheatsheet.com/tag/drupal/
     - Security http://drupalscout.com/knowledge-base
     - Example modules http://drupal.org/project/examples
+    - IDE: http://www.hollyit.net/documentation/drupal-development-tool-netbeans
+    - Best Practises:
+        - http://www.chapterthree.com/category/tags/best_practices
+        - http://www.chapterthree.com/blog/matt_cheney/drupal_development_best_practices_techniques_part_ii
 ---
 {% include JB/setup %}
 
@@ -39,4 +43,4 @@ ref       :
 * Block, Action, Batch, Email, Vertical Tabs, JS/CSS.
 * Cập nhật module -- hook_update_N().
 * Entity, Entity API module, Field
-* File
+* File API
