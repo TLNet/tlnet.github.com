@@ -17,3 +17,4 @@ Tôi sử dụng harvest để track time, nhưng Harvest được thiết kế 
 time cho công ty, billing khách hàng, … Gói miễn phí của Harvest, tôi được tạo 2 project,
 tôi nghĩ, bao nhiêu đó cũng đủ -- 1 để track công việc, 1 để track các việc cá nhân :)
 
+Hy vọng rằng những ngày sắp tới, năng suất làm việc của tôi được cải thiện.
