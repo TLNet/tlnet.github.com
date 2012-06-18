@@ -14,7 +14,7 @@ như sau:
 
 > 2cpu 4gb Ram, 150GB -> 500GB or disk
 
-Bạn nào có nhu cầu, tôi lấy giá hữu nghị 2.5tr/tháng (vui lòng thanh toán một lần 6 tháng).
+Bạn nào có nhu cầu, tôi lấy giá hữu nghị 2.0tr/tháng (vui lòng thanh toán một lần 6 tháng).
 Số lượng có hạn, mong các bạn nhanh chân lên nha :)
 
 Còn server ở Việt Nam, hiện thời tôi còn dư 2 con VPS, datacenter ở VDC, cấu hình:
