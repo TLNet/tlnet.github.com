@@ -5,6 +5,7 @@ tagline   : "Số lượng có hạn"
 category  : News
 tags      : ['hosting', 'service']
 hide      : true
+group     : featured
 ---
 {% include JB/setup %}
 

@@ -5,7 +5,6 @@ title     : "Site Building with Drupal"
 tagline   : Chương trình chi tiết
 category  : News
 tags      : ['Drupal', 'Course']
-group     : featured
 hide      : true
 refs      :
     - Drush http://drupalize.me/videos/what-drush
