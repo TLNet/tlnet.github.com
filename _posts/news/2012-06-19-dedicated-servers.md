@@ -14,6 +14,8 @@ như sau:
 
 > 2cpu 4gb Ram, 150GB -> 500GB or disk
 
+Chú ý là bạn có thể thay thế SSD nếu có nhu cầu. Oh yeah!!!
+
 Bạn nào có nhu cầu, tôi lấy giá hữu nghị 2.0tr/tháng (vui lòng thanh toán một lần 6 tháng).
 Số lượng có hạn, mong các bạn nhanh chân lên nha :)
 
