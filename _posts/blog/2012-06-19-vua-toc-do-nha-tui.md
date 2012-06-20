@@ -4,7 +4,7 @@ title     : Vua tốc độ của nhà tui
 comments  : true
 author    : thehong
 category  : Life
-tags      : ['daughter']
+tags      : ['daughter', 'video', 'facebook']
 ---
 {% include JB/setup %}
 
