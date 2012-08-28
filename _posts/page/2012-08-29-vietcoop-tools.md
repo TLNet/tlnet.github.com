@@ -18,6 +18,7 @@ tags      : ['Viet Coop']
 1. [Drush](http://drupal.org/project/drush)
 1. [Drush Make](http://drupal.org/project/drush_make)
 1. BOA2, [Aegir](http://www.aegirproject.org/)
+1. [Open Atrium](http://openatrium.com/)
 
 ## Drupal Subsystem
 
@@ -28,23 +29,30 @@ tags      : ['Viet Coop']
 1. Redis (cache and more)
 1. Rules
 1. Views
+1. Webform, Form Builder
 
-### Tools
+### Drupal Tools
 1. [Flag](http://drupal.org/project/flag)
 1. [Bot](https://gist.github.com/3505388)
+1. [Coder](http://drupal.org/project/coder)
+1. [Devel](http://drupal.org/project/devel)
 
 ### Admin
 1. Views Bulk Operations
 1. Admin Menu
+1. [Module Filter](http://drupal.org/project/module_filter)
 
 ### Themes
-1. Omega
-1. Admin theme: Rubik/Tao
+1. [Omega](http://drupal.org/project/omega) (Base Theme)
+1. [Rubik/Tao](http://drupal.org/project/rubik) (Admin theme)
 1. [Sass](http://sass-lang.com/)
 1. [Compass](http://compass-style.org/)
 
-## Services
+### System Tools
+1. [Debian - Squeeze](http://www.debian.org/): webmin, htop, bmon, …
+1. [VirtualBox](https://www.virtualbox.org/), [Vagrant](http://vagrantup.com/)
 
+## Services
 1. [Github](https://github.com/)
 1. [Bitbucket](https://bitbucket.org/)
 1. [Trello](https://gist.github.com/3a19f8ad9946a1820b70)
@@ -55,4 +63,3 @@ tags      : ['Viet Coop']
 1. **Blog #2:** Github Pages -- Team Blog
 1. [Twitter](https://twitter.com/) (SN)
 1. [Harvest](http://www.getharvest.com/) (Invoices)
-1. Virtual Box, Vagrant
