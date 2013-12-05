@@ -3,9 +3,8 @@ layout    : post
 title     : "Cho thuê Dedicated servers"
 tagline   : "Số lượng có hạn"
 category  : News
-tags      : ['hosting', 'service']
+tags      : ['hosting', 'service', 'closed']
 hide      : true
-group     : featured
 ---
 {% include JB/setup %}
 
